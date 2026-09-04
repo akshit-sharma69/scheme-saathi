@@ -1,0 +1,80 @@
+export const partnersData = [
+  {
+    id: 1,
+    name: "State Bank of India — Lead District SME Hub",
+    type: "Lead Commercial Bank",
+    badge: "Official DBT Partner",
+    state: "Maharashtra",
+    district: "Mumbai / Pune",
+    address: "Nariman Point / Shivaji Nagar Main Branch",
+    phone: "1800-11-2211",
+    officer: "Shri R. K. Sharma (Chief Manager - SME)",
+    services: ["PMEGP Sanctions", "Mudra Tarun Plus", "Stand-Up India Desk", "SCLCSS Claims"],
+    distance: "1.2 km"
+  },
+  {
+    id: 2,
+    name: "District Industries Centre (DIC) Facilitation Cell",
+    type: "Govt Facilitation Centre",
+    badge: "KVIC & MSME Nodal",
+    state: "Delhi",
+    district: "Central Delhi",
+    address: "Patparganj Industrial Area / Pusa Road",
+    phone: "011-2214-8899",
+    officer: "Dr. Ananya Verma (General Manager, DIC)",
+    services: ["PMEGP DLTFC Screening", "Udyam Aadhaar Free Registration", "PMFME DPR Assistance"],
+    distance: "2.4 km"
+  },
+  {
+    id: 3,
+    name: "Punjab National Bank — MSME Specialized Branch",
+    type: "Public Sector Bank",
+    badge: "Fast Track Approval",
+    state: "Uttar Pradesh",
+    district: "Lucknow",
+    address: "Hazratganj Main Business Centre",
+    phone: "1800-180-2222",
+    officer: "Shri A. P. Singh (Assistant General Manager)",
+    services: ["NSFDC State Channel Partner", "PMEGP Rural Subsidies", "PM Vishwakarma Loans"],
+    distance: "3.1 km"
+  },
+  {
+    id: 4,
+    name: "Khadi and Village Industries Commission (KVIC) State Office",
+    type: "Central Nodal Agency",
+    badge: "Direct PMEGP Admin",
+    state: "Gujarat",
+    district: "Ahmedabad",
+    address: "Navrangpura / Gandhi Ashram Road",
+    phone: "079-2656-3344",
+    officer: "Smt. Meenakshi Patel (Director, KVIC)",
+    services: ["Margin Money Subsidy Claims", "EDP Training Certification", "Artisan Verification"],
+    distance: "2.8 km"
+  },
+  {
+    id: 5,
+    name: "Bank of Baroda — Baroda Pride MSME Cell",
+    type: "Public Sector Bank",
+    badge: "Stand-Up India Pioneer",
+    state: "Karnataka",
+    district: "Bengaluru",
+    address: "MG Road Financial Hub",
+    phone: "1800-258-4455",
+    officer: "Shri K. R. Venkatesh (DGM - Micro Finance)",
+    services: ["Stand-Up India Composite Loans", "Mudra Shishu & Kishor", "SC-ST Hub Vendor Finance"],
+    distance: "3.5 km"
+  },
+  {
+    id: 6,
+    name: "Common Service Centre (CSC) Digital Seva Kendra",
+    type: "CSC Portal Partner",
+    badge: "Biometric & OTR Desk",
+    state: "Pan India",
+    district: "All Districts",
+    address: "Present at every Gram Panchayat & Ward",
+    phone: "14599",
+    officer: "VLE Certified Coordinator",
+    services: ["NSP One Time Registration (OTR)", "PM Vishwakarma Biometric Verification", "DigiLocker Doc Fetch"],
+    distance: "0.5 km"
+  }
+];
